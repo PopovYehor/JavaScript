@@ -1,7 +1,7 @@
 import "./style.scss"
 import { createElem } from "../../helper/createElement"
 import { switchItem, svgSwitch } from "../../components/switch"
-import { productCart } from "./product-cart/product-cart-index"
+import { productCart } from "../../components/product/product-cart/product-cart-index"
 import { catalogTitle } from "../../components/catalog/catalog-title"
 import { sortCatalog } from "../../components/catalog/sort-catalog"
 import { catalogSelect } from "../../components/catalog/catalog-select"
